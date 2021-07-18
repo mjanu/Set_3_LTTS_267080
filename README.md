@@ -17,7 +17,7 @@ By observing and analyzing the given data we have to predict whether a person wi
 
    |   Name          | Features          |    Issuess Raised |   Issues Resolved |      
    |:---------------:| :---------------: | :---------------:| :---------------:| 
-   | Mondeep Das     | Titanic_challenge     |NIL             |  NIL              |    
+   | Mondeep Das     | Credit_card_attrition     |NIL             |  NIL              |    
 
 
 ## Problems solved
